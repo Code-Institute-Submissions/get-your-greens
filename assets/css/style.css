@@ -19,3 +19,10 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
 }
+
+/* REUSABLE COMPONENTS */
+
+.container {
+    margin: 0 auto;
+    max-width: 120rem;
+}
