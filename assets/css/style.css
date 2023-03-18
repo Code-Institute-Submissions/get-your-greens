@@ -23,6 +23,7 @@ body {
 .container {
     margin: 0 auto;
     max-width: 120rem;
+    padding: 0 5rem;
 }
 
 /* HEADER */
@@ -30,4 +31,12 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: space-between;
+    gap: 5rem;
+
+    list-style: none;
 }
