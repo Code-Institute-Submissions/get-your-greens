@@ -2,7 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&display=swap');
 
 /* GENERAL RULES */
-
 * {
     margin: 0;
     padding: 0;
@@ -21,8 +20,14 @@ body {
 }
 
 /* REUSABLE COMPONENTS */
-
 .container {
     margin: 0 auto;
     max-width: 120rem;
+}
+
+/* HEADER */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
