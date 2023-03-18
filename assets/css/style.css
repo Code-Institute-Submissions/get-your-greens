@@ -40,3 +40,25 @@ body {
 
     list-style: none;
 }
+
+/* HERO SECTION */
+.hero-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 5rem;
+}
+
+.hero-image-container {
+    flex-shrink: 0;
+    padding: 0 5rem;
+    width: 80%;
+}
+
+.hero-image {
+    width: 100%;
+}
+
+.hero-text-container {
+    flex-shrink: 1;
+}
