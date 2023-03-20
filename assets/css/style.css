@@ -46,6 +46,10 @@ body {
 }
 
 /* HERO SECTION */
+.hero {
+    background-image: linear-gradient(to bottom, #BDF7B7, #fff);
+}
+
 .hero-container {
     display: flex;
     justify-content: space-between;
