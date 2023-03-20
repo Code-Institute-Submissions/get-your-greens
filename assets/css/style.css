@@ -75,5 +75,11 @@ body {
 }
 
 .hero-text-container {
-    flex-shrink: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 5rem;
+}
+
+.hero-description p {
+    padding-top: 1.2rem;
 }
