@@ -59,6 +59,7 @@ body {
     font-weight: 500;
     color: black;
     text-decoration: none;
+    text-shadow: 0 0 0.1rem;
 }
 
 /* HERO SECTION */
@@ -81,12 +82,15 @@ body {
 
 .hero-image {
     width: 100%;
+    box-shadow: 0 0 0.25rem;
 }
 
 .hero-text-container {
     display: flex;
     flex-direction: column;
     gap: 5rem;
+
+    text-shadow: 0 0 0.1rem;
 }
 
 .hero-description h1 {
