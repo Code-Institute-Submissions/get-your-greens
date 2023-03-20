@@ -10,7 +10,7 @@
 }
 
 html {
-    /* 10px / 16px = 0.625 =62.5% */
+    /* 10px / 16px = 0.625 = 62.5% */
     font-size: 62.5%
 }
 
@@ -23,7 +23,6 @@ body {
 .container {
     margin: 0 auto;
     max-width: 140rem;
-    padding: 0 5rem;
 }
 
 /* HEADER */
@@ -31,6 +30,8 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+
+    background-color: #BDF7B7;
 }
 
 .nav-list {
