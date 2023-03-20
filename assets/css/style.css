@@ -110,6 +110,7 @@ body {
     justify-content: flex-end;
     align-items: center;
     gap: 3rem;
+    margin-left: 2rem;
 }
 
 .customer-images img {
