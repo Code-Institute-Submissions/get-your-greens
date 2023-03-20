@@ -45,6 +45,13 @@ body {
     list-style: none;
 }
 
+.nav-list li a {
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: black;
+    text-decoration: none;
+}
+
 /* HERO SECTION */
 .hero {
     background-image: linear-gradient(to bottom, #BDF7B7, #fff);
@@ -60,7 +67,7 @@ body {
 .hero-image-container {
     flex-shrink: 0;
     padding: 0 5rem;
-    width: 80%;
+    width: 50%;
 }
 
 .hero-image {
