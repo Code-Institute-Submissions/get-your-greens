@@ -123,6 +123,7 @@ body {
 .hero-customers {
     display: flex;
     flex-direction: row-reverse;
+    flex-wrap: wrap-reverse;
     justify-content: flex-end;
     align-items: center;
     gap: 3rem;
