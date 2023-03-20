@@ -103,3 +103,19 @@ body {
 
     font-size: 2rem;
 }
+
+.hero-customers {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 3rem;
+}
+
+.customer-images img {
+    margin: -1rem;
+
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+}
