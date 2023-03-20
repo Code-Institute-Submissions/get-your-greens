@@ -46,7 +46,7 @@ body {
 }
 
 /* HERO SECTION */
-.hero-section {
+.hero-container {
     display: flex;
     justify-content: space-between;
     align-items: center;
