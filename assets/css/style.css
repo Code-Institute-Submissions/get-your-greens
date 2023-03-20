@@ -80,6 +80,12 @@ body {
     gap: 5rem;
 }
 
+.hero-description h1 {
+    font-size: 5rem;
+}
+
 .hero-description p {
     padding-top: 1.2rem;
+
+    font-size: 2rem;
 }
