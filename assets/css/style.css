@@ -266,3 +266,16 @@ body {
     text-transform: uppercase;
     color: orange;
 }
+
+/* TESTIMONIALS SECTION */
+
+.testimonials {
+    background-image: linear-gradient(to bottom, #BDF7B7, white);
+}
+
+.testimonial-container {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20rem;
+    padding-bottom: 20rem;
+}
