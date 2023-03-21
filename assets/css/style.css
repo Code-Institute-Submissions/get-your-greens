@@ -221,7 +221,7 @@ body {
     }
 }
 
-.how-it-works-container div img {
+.grid-item-image {
     display: block;
     margin: auto;
     width: 80%;
