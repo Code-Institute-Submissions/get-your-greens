@@ -194,8 +194,9 @@ body {
     border-radius: 50%;
 }
 
-.hero-customers p {
+.customer-text {
     font-size: 2rem;
+    color: orange;
 }
 
 /* HOW IT WORKS SECTION */
