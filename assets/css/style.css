@@ -214,6 +214,13 @@ body {
     padding-top: 20rem;
 }
 
+@media screen and (max-width: 570px) {
+    .how-it-works-container {
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(6, 1fr);
+    }
+}
+
 .how-it-works-container div img {
     display: block;
     margin: auto;
