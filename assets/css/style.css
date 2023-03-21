@@ -219,3 +219,17 @@ body {
     margin: auto;
     width: 80%;
 }
+
+.how-it-works-text {
+    font-size: 2rem;
+    text-align: center;
+}
+
+.how-it-works-text strong {
+    display: inline-block;
+    padding-bottom: 2rem;
+    font-size: 3rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: orange;
+}
