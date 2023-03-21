@@ -197,3 +197,25 @@ body {
 .hero-customers p {
     font-size: 2rem;
 }
+
+/* HOW IT WORKS SECTION */
+
+.how-it-works {
+    background-image: linear-gradient(to bottom, white, #BDF7B7);
+}
+
+.how-it-works-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    gap: 20rem;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20rem;
+}
+
+.how-it-works-container div img {
+    display: block;
+    margin: auto;
+    width: 80%;
+}
