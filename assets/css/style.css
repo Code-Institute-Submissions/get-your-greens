@@ -26,6 +26,12 @@ body {
     padding: 0 5rem;
 }
 
+ @media screen and (max-width: 350px) {
+    .container {
+        padding: 0 1rem;
+    }
+ }
+
 .button {
     background-color: black;
     border-radius: 100px;
@@ -68,7 +74,6 @@ body {
         justify-content: center;   
         gap: 2rem;     
     }
-    
 }
 
 .nav-list li a {
