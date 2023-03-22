@@ -335,3 +335,28 @@ body {
     font-size: 2rem;
     line-height: 2.5rem;
 }
+
+/* PRICING SECTION */
+
+.pricing {
+    background-image: linear-gradient(to bottom, white, #BDF7B7);
+}
+
+.pricing-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 10rem 0;
+}
+
+.offer-1 {
+    width: 50%;
+    background-image: url('../images/graph-1.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+    height: 1000px;
+}
+
+.offer-2 {
+    width: 50%;
+}
