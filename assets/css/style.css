@@ -264,6 +264,7 @@ body {
 
 .how-it-works-text {
     font-size: 2rem;
+    line-height: 3rem;
     text-align: center;
 }
 
@@ -335,4 +336,5 @@ body {
     padding: 3rem;
 
     font-size: 2rem;
+    line-height: 2.5rem;
 }
