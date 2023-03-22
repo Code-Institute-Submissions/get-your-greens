@@ -90,7 +90,6 @@ body {
     font-weight: 500;
     color: black;
     text-decoration: none;
-    text-shadow: 0 0 0.1rem;
 
     transition: all 0.25s ease-in-out;
 }
@@ -142,8 +141,6 @@ body {
     flex-direction: column;
     justify-content: center;
     gap: 5rem;
-
-    text-shadow: 0 0 0.1rem;
 }
 
 @media screen and (max-width: 1000px) {
