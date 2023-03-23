@@ -397,3 +397,21 @@ body {
 .offer-heading h2 {
     text-transform: uppercase;
 }
+
+/* FORM SECTION */
+
+.form {
+    background-image: linear-gradient(to bottom, #BDF7B7, white);
+}
+
+.form-container {
+    display: flex;
+    justify-content: space-around;
+    background-color: orange;
+    border-radius: 30px;
+}
+
+.form-image {
+    max-width: 50%;
+    border-radius: 30px;
+}
