@@ -345,8 +345,15 @@ body {
 .pricing-container {
     display: flex;
     justify-content: center;
-    gap: 10rem;
+    gap: 5rem;
     padding: 10rem 0;
+}
+
+@media screen and (max-width: 1055px) {
+    .pricing-container {
+        flex-direction: column;
+        align-items: center;
+    }
 }
 
 .offer {
@@ -361,10 +368,23 @@ body {
     border-radius: 30px;
 }
 
+@media screen and (max-width: 1055px) {
+    .offer {
+        width: 70%;
+    }
+    
+}
+
 .offer-text {
     font-size: 2rem;
     line-height: 2;
     padding-bottom: 2rem;
+}
+
+@media screen and (max-width: 420px) {
+    .offer-text {
+        font-size: 1.5rem;
+    }
 }
 
 .offer-heading {
