@@ -344,19 +344,36 @@ body {
 
 .pricing-container {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    gap: 10rem;
     padding: 10rem 0;
 }
 
-.offer-1 {
-    width: 50%;
-    background-image: url('../images/graph-1.png');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: auto;
-    height: 1000px;
+.offer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: 30%;
+    padding: 5rem;
+    background-image: linear-gradient(to bottom, orange, white);
+    border-radius: 30px;
 }
 
-.offer-2 {
-    width: 50%;
+.offer-text {
+    font-size: 2rem;
+    line-height: 2;
+    padding-bottom: 2rem;
+}
+
+.offer-heading {
+    display: block;
+    text-align: center;
+    line-height: 1.5;
+    padding-bottom: 2rem;
+}
+
+.offer-heading h2 {
+    text-transform: uppercase;
 }
