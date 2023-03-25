@@ -406,12 +406,32 @@ body {
 
 .form-container {
     display: flex;
-    justify-content: space-around;
-    background-color: orange;
-    border-radius: 30px;
+    gap: 3rem;
+}
+
+.image-container {
+    flex-basis: 50%;
 }
 
 .form-image {
-    max-width: 50%;
+    width: 100%;
     border-radius: 30px;
+}
+
+.input-container {
+    flex-basis: 50%;
+    display: flex;
+    flex-direction: column;
+}
+
+.input-form {
+    flex-basis: 50%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 3rem;
+    row-gap: 1rem;
+}
+
+.input-heading {
+    flex-basis: 50%;
 }
