@@ -417,7 +417,9 @@ body {
 }
 
 .form-image {
-    width: 100%;
+    display: block;
+    margin: 0 auto;
+    width: 80%;
     border-radius: 30px;
 }
 
