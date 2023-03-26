@@ -44,6 +44,7 @@ body {
 }
 
 .section-heading {
+    padding-bottom: 15rem;
     text-align: center;
     text-transform: uppercase;
     font-size: 3rem;
@@ -218,7 +219,6 @@ body {
     gap: 10rem;
     justify-content: center;
     align-items: center;
-    padding-top: 20rem;
 }
 
 @media screen and (max-width: 570px) {
