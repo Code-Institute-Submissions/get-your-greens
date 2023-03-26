@@ -43,6 +43,14 @@ body {
     transition: all 0.25s;
 }
 
+@media screen and (max-width: 395px) {
+    .button {
+        font-size: 1.4rem;
+        padding: 0.6rem 1.8rem;
+    }
+    
+}
+
 .section-heading {
     padding-bottom: 15rem;
     text-align: center;
@@ -408,16 +416,25 @@ body {
     border-radius: 30px;
     padding: 2rem;
     display: flex;
+    justify-content: flex-start;
     gap: 3rem;
+}
+
+@media screen and (max-width: 920px) {
+    .form-container {
+        flex-direction: column;
+    }
 }
 
 .form-image-container {
     flex-basis: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .form-image {
     display: block;
-    margin: 0 auto;
     width: 80%;
     border-radius: 30px;
 }
@@ -427,13 +444,12 @@ body {
 
     display: flex;
     flex-direction: column;
+    gap: 2rem;
     justify-content: space-around;
 }
 
 .form-input-heading {
     flex-basis: 50%;
-
-    padding-top: 3rem;
 }
 
 .form-input-heading h2 {
@@ -458,6 +474,13 @@ body {
     grid-template-columns: 1fr 1fr;
     column-gap: 3rem;
     row-gap: 1rem;
+}
+
+@media screen and (max-width: 500px) {
+    .form-input-fields {
+        grid-template-columns: 1fr;
+    }
+    
 }
 
 .form-input-fields label {
