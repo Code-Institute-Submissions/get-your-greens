@@ -428,6 +428,23 @@ body {
 
 .form-input-heading {
     flex-basis: 50%;
+
+    padding-top: 3rem;
+}
+
+.form-input-heading h2 {
+    font-size: 3rem;
+
+    padding-bottom: 2rem;
+}
+
+.form-input-heading strong {
+    color: orange;
+}
+
+.form-input-heading p {
+    font-size: 1.5rem;
+    line-height: 1.5;
 }
 
 .form-input-fields {
