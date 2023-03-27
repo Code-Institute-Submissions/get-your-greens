@@ -109,7 +109,7 @@ body {
 /* HERO SECTION */
 .hero {
     background-image: linear-gradient(to bottom, #BDF7B7, #fff);
-    padding-bottom: 20rem;
+    padding-bottom: 15rem;
 }
 
 .hero-container {
@@ -216,7 +216,7 @@ body {
 
 .how-it-works {
     background-image: linear-gradient(to bottom, white, #BDF7B7);
-    padding-bottom: 20rem;
+    padding-bottom: 15rem;
 }
 
 .how-it-works-container {
@@ -286,7 +286,7 @@ body {
 
 .testimonials {
     background-image: linear-gradient(to bottom, #BDF7B7, white);
-    padding-bottom: 20rem;
+    padding-bottom: 15rem;
 }
 
 .testimonial-container {
@@ -347,14 +347,13 @@ body {
 
 .pricing {
     background-image: linear-gradient(to bottom, white, #BDF7B7);
-    padding-bottom: 20rem;
+    padding-bottom: 15rem;
 }
 
 .pricing-container {
     display: flex;
     justify-content: center;
     gap: 5rem;
-    padding: 10rem 0;
 }
 
 @media screen and (max-width: 1055px) {
@@ -410,6 +409,7 @@ body {
 
 .form {
     background-image: linear-gradient(to bottom, #BDF7B7, white);
+    padding-bottom: 15rem;
 }
 
 .form-container {
@@ -498,8 +498,10 @@ body {
 }
 
 /* FOOTER */
+
 .social-icons {
     width: 4rem;
+    border-radius: 50%;
 }
 
 
