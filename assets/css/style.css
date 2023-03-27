@@ -499,9 +499,35 @@ body {
 
 /* FOOTER */
 
-.social-icons {
-    width: 4rem;
-    border-radius: 50%;
+.footer {
+    background-color: white;
 }
 
+.footer-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10rem;
+}
+
+.social-container {
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+}
+
+.icon-container {
+    width: 4rem;
+}
+
+.social-icons {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.contact-list {
+    text-align: center;
+    list-style: none;
+    font-size: 2rem;
+    padding-bottom: 10rem;
+}
 
