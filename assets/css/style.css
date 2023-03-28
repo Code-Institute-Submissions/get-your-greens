@@ -33,7 +33,7 @@ body {
  }
 
 .button {
-    background-color: black;
+    background-color: #000;
     border-radius: 100px;
     padding: 1.2rem 2.4rem;
     font-size: 2rem;
