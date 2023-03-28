@@ -497,6 +497,25 @@ body {
     padding: 0.8rem;
 }
 
+.sign-up-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.sign-up-container button {
+    font-size: 1.8rem;
+    width: 100%;
+    padding: 1.3rem;
+    margin-bottom: -0.3rem;
+}
+
+@media screen and (max-width: 500px) {
+    .sign-up-container button {
+        margin-top: 2rem;
+    }
+}
+
 /* FOOTER */
 
 .footer {
@@ -530,3 +549,4 @@ body {
     font-size: 2rem;
     padding-bottom: 10rem;
 }
+
