@@ -405,6 +405,11 @@ body {
     text-transform: uppercase;
 }
 
+.offer-list {
+    list-style: none;
+    text-align: center;
+}
+
 /* FORM SECTION */
 
 #form {
