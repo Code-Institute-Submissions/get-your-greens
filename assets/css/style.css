@@ -408,6 +408,12 @@ body {
     }
 }
 
+@media screen and (max-width: 492px) {
+    .button-extension {
+        display: none;
+    }
+}
+
 @media screen and (max-width: 1055px) {
     .pricing-container {
         flex-direction: column;
