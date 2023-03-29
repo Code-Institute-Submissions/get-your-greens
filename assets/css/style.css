@@ -505,7 +505,7 @@ body {
 #sign-up-container {
     display: flex;
     justify-content: center;
-    align-items: flex-end;
+    align-items: center;
 }
 
 #sign-up-container button {
@@ -513,7 +513,7 @@ body {
     font-size: 1.8rem;
     width: 100%;
     padding: 1.3rem;
-    margin-bottom: -0.3rem;
+    margin-bottom: -2rem;
 }
 
 /* MEDIA QUERIES FOR FORM SECTION */
