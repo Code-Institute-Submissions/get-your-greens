@@ -191,6 +191,10 @@ body {
     color: #ffa500;
 }
 
+#customer-text span {
+    font-weight: 700;
+}
+
 /* MEDIA QUERIES FOR HERO SECTION */
 
 @media screen and (max-width: 1000px) {
@@ -244,7 +248,7 @@ body {
     text-align: center;
 }
 
-.how-it-works-text strong {
+.how-it-works-text span {
     display: inline-block;
     padding-bottom: 2rem;
     font-size: 3rem;
@@ -391,6 +395,10 @@ body {
     text-transform: uppercase;
 }
 
+.price {
+    font-weight: 700;
+}
+
 .offer-list {
     list-style: none;
     text-align: center;
@@ -462,7 +470,7 @@ body {
     padding-bottom: 4rem;
 }
 
-#form-input-heading strong {
+#form-input-heading span {
     color: #ffa500;
 }
 
