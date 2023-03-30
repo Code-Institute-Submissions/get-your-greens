@@ -16,11 +16,13 @@ As part of the project planning, I use the 5 planes of user experience design, t
 
 The business goals of GetYourGreens are to provide a convenient and time saving online grocery delivery service. The main goal is to offer high-quality and locally sourced products and create a positive user experience by offering customizable food boxes. The goals when creating a website for GetYourGreens is to build a strong online presence that attracts customers. In order to achieve that, the user should be able to understand the business easily and should be able to sign up for the service quickly. The website should include customer feedback to build trust with potential customers. Moreover, the website should be responsive to allow customers to access the website from any device.
 
-## User Goals
+### User Goals
 
 The user goals are to have access to high-quality, fresh and locally sourced products while saving time and effort by using a delivery service. They want their orders to be customizable to their specific needs. User goals when visiting the website of GetYourGreens are to easily understand the business and find the most relevant information quickly (e.g. process, pricing). In addtion, user want to sign up for the service without taking a lot of risk.
 
 ## Mockup
+
+The following Mockup was created on [Balsamiq Cloud](https://balsamiq.cloud/).
 
 ![Mockup of GetYourGreens website](assets/images/readme/mockup.png)
 
