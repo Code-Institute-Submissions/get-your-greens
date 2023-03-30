@@ -78,7 +78,7 @@ The implementation of the footer is as planned, except that the social media lin
 
 - I confirm that no errors occured running the HTML code through the [Markup Validation Service](https://validator.w3.org/).
 
-- I can confirm that no errors occured running the CSS code through the [CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+- I confirm that no errors occured running the CSS code through the [CSS Validation Service](https://jigsaw.w3.org/css-validator/)
 
 ### Browser Compatibility
 
