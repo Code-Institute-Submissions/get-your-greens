@@ -34,7 +34,7 @@ In this section, I show and describe the features the website has and compare th
 
 ![Image of the website's header](assets/images/readme/header.png)
 
-The header contains a company logo to encourage brand awareness. Next to it there is a navigation bar, which allows the user to easily jump between the page sections. The only difference from the mockup is that there is no recipes section. This could be included in a future implementation to support the user to cook healthy meals. Moreover, the call to action bar is not included in the header. To find out where to call to action button should be located optimally, the conversion rate needs to be tested.
+The header contains a company logo to encourage brand awareness. Next to it there is a navigation bar, which allows the user to easily jump between the page sections. The only difference from the mockup is that there is no recipes section. This could be included in a future implementation to support the user to cook healthy meals. Moreover, the call to action button is not included in the header. To find out where to call to action button should be located optimally, the conversion rate needs to be tested.
 
 ### Hero Section
 
