@@ -126,4 +126,16 @@ While testing the website on different browsers, it seems like the hover effect 
 
 I tried to find out where this bug comes from and compared this button to the buttons in the pricing section. I found out that they use the same reusable class for the button, which make it even harder to figure out what is happening. Unfortunately I could also not find a solution online.
 
+## Contents
+
+- The Logo was created using [Canva](https://www.canva.com/).
+
+- The images were downloaded from [Pexels](https://www.pexels.com/).
+
+- The text content was written by myself.
+
+- The SVG's were downloaded from [Undraw](https://www.undraw.com/).
+
+- The social media icons were downloadet from [Flaticon](https://www.flaticon.com/)
+
 
