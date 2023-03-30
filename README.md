@@ -114,11 +114,16 @@ The scores were perfect, except the SEO score. In order to improve it, lighthous
 
 ### Solved Bugs
 
-- After changing the grid layout in the media query in the how it works section, the grid elements were displayed in a wrong order. I found the solution for this problem in this [article](https://www.sitepoint.com/order-align-items-grid-layout/)
+- After changing the grid layout in the media query in the how it works section, the grid elements were displayed in a wrong order. I found the solution for this problem in this [article](https://www.sitepoint.com/order-align-items-grid-layout/).
 
-- When implementing the hover effect I tried to use a border. The problem was that it pushed the content above upwards. I found the solution for this problem in this [forum](https://stackoverflow.com/questions/18887058/css-hover-creating-border-but-pushing-content)
+- When implementing the hover effect I tried to use a border. The problem was that it pushed the content above upwards. I found the solution for this problem in this [forum](https://stackoverflow.com/questions/18887058/css-hover-creating-border-but-pushing-content).
 
 ### Unsolved Bugs
 
+While testing the website on different browsers, it seems like the hover effect for the button in the hero section causes problems.
+
+![Image of button hovered in safari browser](assets/images/readme/safari-bug.png)
+
+I tried to find out where this bug comes from and compared this button to the buttons in the pricing section. I found out that they use the same reusable class for the button, which make it even harder to figure out what is happening. Unfortunately I could also not find a solution online.
 
 
