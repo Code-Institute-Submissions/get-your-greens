@@ -110,7 +110,13 @@ The scores were perfect, except the SEO score. In order to improve it, lighthous
 
 - I confirm that the social media icons work. After clicking them, a new tab opens in the browser.
 
+## Bugs
 
+### Solved Bugs
+
+- After changing the grid layout in the media query in the how it works section, the grid elements were displayed in a wrong order. I found the solution for this problem in this [article](https://www.sitepoint.com/order-align-items-grid-layout/)
+
+### Unsolved Bugs
 
 
 
