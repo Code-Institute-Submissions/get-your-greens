@@ -101,6 +101,7 @@ body {
 }
 
 #nav-list li:hover {
+    /* increasing font-size does not work because it manipulates the conten around the navigation */
     transform: scale(1.1);
 }
 

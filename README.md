@@ -163,4 +163,3 @@ The website was deployed to Github pages. The steps were as followed:
 4. Choose to deploy from a branch, pick the main branch and save.
 
 5. The link to the site displays on the page.
-
