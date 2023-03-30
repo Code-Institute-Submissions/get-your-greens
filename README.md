@@ -44,6 +44,12 @@ The hero section features a large image to show the potential customers how GetY
 
 ### How It Works Section
 
+![Image of the website's how it works section](assets/images/readme/howitworks-section.png)
+
+The How it works section was implemented as planned. It shows to the user how simple the process is and support the understanding of the process through small images.
+
+
+
 ### Testimonials Section
 
 ### Pricing Section
