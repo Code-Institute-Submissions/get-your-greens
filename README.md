@@ -148,7 +148,7 @@ I tried to find out where this bug comes from and compared this button to the bu
 
 - The SVG's were downloaded from [Undraw](https://www.undraw.com/).
 
-- The social media icons were downloaded from [Flaticon](https://www.flaticon.com/)
+- The social media icons were downloaded from [Flaticon](https://www.flaticon.com/).
 
 ## Deployment
 
