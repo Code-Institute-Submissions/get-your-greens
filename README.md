@@ -136,7 +136,7 @@ While testing the website on different browsers, it seems like the hover effect 
 
 ![Image of button hovered in safari browser](assets/images/readme/safari-bug.png)
 
-I tried to find out where this bug comes from and compared this button to the buttons in the pricing section. I found out that they use the same reusable class for the button, which make it even harder to figure out what is happening. Unfortunately I could also not find a solution online.
+I tried to find out where this bug comes from and compared this button to the buttons in the pricing section which work. I found out that they use the same reusable class for the button, which make it even harder to figure out what is happening. Unfortunately I could also not find a solution online.
 
 ## Contents
 
