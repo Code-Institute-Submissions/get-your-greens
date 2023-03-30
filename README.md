@@ -76,13 +76,13 @@ The implementation of the footer is as planned, except that the social media lin
 
 ### Technologies used
 
-- Gitpod was used as the Integrated Development Environment
+- Gitpod was used as the Integrated Development Environment.
 
 - Hypertext Markup Language was used to describe the content of the website.
 
 - Cascading Stylesheets were used to style the content on the website.
 
-- The version control software GIT was used during the development process
+- The version control software GIT was used during the development process.
 
 ## Testing
 
@@ -128,7 +128,7 @@ The scores were perfect, except the SEO score. In order to improve it, lighthous
 
 - After changing the grid layout in the media query in the how it works section, the grid elements were displayed in a wrong order. I found the solution for this problem in this [article](https://www.sitepoint.com/order-align-items-grid-layout/).
 
-- When implementing the hover effect I tried to use a border. The problem was that it pushed the content above upwards. I found the solution for this problem in this [forum](https://stackoverflow.com/questions/18887058/css-hover-creating-border-but-pushing-content).
+- When implementing the hover effect I tried to use the border property. The problem was that it pushed the content above upwards. I found the solution for this problem in this [forum](https://stackoverflow.com/questions/18887058/css-hover-creating-border-but-pushing-content).
 
 ### Unsolved Bugs
 
