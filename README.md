@@ -138,4 +138,17 @@ I tried to find out where this bug comes from and compared this button to the bu
 
 - The social media icons were downloadet from [Flaticon](https://www.flaticon.com/)
 
+## Deployment
+
+The website was deployed to Github pages. The steps were as followed:
+
+1. Click on the repository of get-your-greens.
+
+2. Click on settings.
+
+3. Click on pages.
+
+4. Choose to deploy from a branch, pick the main branch and save.
+
+5. The link to the site displays on the page.
 
