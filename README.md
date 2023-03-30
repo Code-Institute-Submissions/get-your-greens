@@ -94,7 +94,7 @@ The implementation of the footer is as planned, except that the social media lin
 
 ### Browser Compatibility
 
-I confirm that the website works and looks good on the three main browsers: Google Chrome, Safari, Mozilla Firefox. Something has been noticed in the Safari browser that is mentioned in the Unsolved Bugs section.
+I confirm that the website works and looks good in the three main browsers: Google Chrome, Safari, Mozilla Firefox. Something has been noticed in the Safari browser that is mentioned in the Unsolved Bugs section.
 
 ### Responsiveness
 
