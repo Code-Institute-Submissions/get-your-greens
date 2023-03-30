@@ -90,6 +90,16 @@ Something has been noticed in the Safari browser that is mentioned in the Unsolv
 
 I can confirm that the website works and looks good on all standard screen sizes using the chrome developer tools. In additon, the websites responsiveness was tested on an IPhone 12 Pro and a MacBook Air.
 
+## Lighthouse
+
+I tested the website's performance, accessibility, best practices and SEO using lighthouse by chrome developer tools.
+
+![Image of the lighthouse result before](assets/images/readme/lighthouse_before.png)
+
+The scores were perfect, except the SEO score. In order to improve it, lighthouse advises to add a meta desciption tag. After doing this, the website reaches the maximum scores in all categories.
+
+![Image of the lighthouse result after](assets/images/readme/lighthouse%20after.png)
+
 
 
 
