@@ -88,7 +88,7 @@ The implementation of the footer is as planned, except that the social media lin
 
 ### Code Validation
 
-- I confirm that no errors occured running the HTML code through the [Markup Validation Service](https://validator.w3.org/).
+- I confirm that no errors occured running the HTML code through the [Markup Validation Service](https://validator.w3.org/). However, it shows 3 warnings, telling me I should consider adding headings to my section elements, or use div elements instead. Nevertheless, I prefer using section elements since it has helped me to achieve 100% at best practices in the lighthouse tool.
 
 - I confirm that no errors occured running the CSS code through the [CSS Validation Service](https://jigsaw.w3.org/css-validator/)
 
