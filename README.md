@@ -56,6 +56,10 @@ The Testimonial section was implemented slightly differently than planned. I dec
 
 ### Pricing Section
 
+![Image of the website's pricing section](assets/images/readme/pricing-section.png)
+
+The Pricing section was implemented as planned, except that there are now two instead of three pricing models. The user can quickly see what each pricing model includes and has the option to jump to the registration process using the call-to-action button.
+
 ### Signup Section
 
 ### Footer
