@@ -72,3 +72,25 @@ In comparison to the mockup, the implementation of the signup section is mirrore
 
 The implementation of the footer is as planned, except that the social media links and contact information are displayed vertically instead of horizontally. When the user clicks on the social media icons, a new tab opens.
 
+## Testing
+
+### Code Validation
+
+- I confirm that no errors occured running the HTML code through the [Markup Validation Service](https://validator.w3.org/).
+
+- I can confirm that no errors occured running the CSS code through the [CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+
+### Browser Compatibility
+
+I confirm that the website works and looks good on the three main browsers: Google Chrome, Safari, Mozilla Firefox.
+
+Something has been noticed in the Safari browser that is mentioned in the Unsolved Bugs section.
+
+### Responsiveness
+
+I can confirm that the website works and looks good on all standard screen sizes using the chrome developer tools. In additon, the websites responsiveness was tested on an IPhone 12 Pro and a MacBook Air.
+
+
+
+
+
