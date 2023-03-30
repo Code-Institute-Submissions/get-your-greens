@@ -20,9 +20,31 @@ The business goals of GetYourGreens are to provide a convenient and time saving 
 
 The user goals are to have access to high-quality, fresh and locally sourced products while saving time and effort by using a delivery service. They want their orders to be customizable to their specific needs. User goals when visiting the website of GetYourGreens are to easily understand the business and find the most relevant information quickly (e.g. process, pricing). In addtion, user want to sign up for the service without taking a lot of risk.
 
-## Mockup
+### Mockup
 
 The following Mockup was created on [Balsamiq Cloud](https://balsamiq.cloud/).
 
 ![Mockup of GetYourGreens website](assets/images/readme/mockup.png)
+
+## Features
+
+In this section, I show and describe the features the website has and compare them to the initial Mockup I created.
+
+### Header
+
+![Image of the website's header](assets/images/readme/header.png)
+
+The header contains a company logo to encourage brand awareness. Next to it there is a navigation bar, which allows the user to easily jump between the page sections. The only difference from the mockup is that there is no recipes section. This could be included in a future implementation to support the user to cook healthy meals. Moreover, the call to action bar is not included in the header. To find out where to call to action button should be located optimally, the conversion rate needs to be tested.
+
+### Hero Section
+
+### How It Works Section
+
+### Testimonials Section
+
+### Pricing Section
+
+### Signup Section
+
+### Footer
 
