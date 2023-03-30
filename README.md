@@ -82,9 +82,7 @@ The implementation of the footer is as planned, except that the social media lin
 
 ### Browser Compatibility
 
-I confirm that the website works and looks good on the three main browsers: Google Chrome, Safari, Mozilla Firefox.
-
-Something has been noticed in the Safari browser that is mentioned in the Unsolved Bugs section.
+I confirm that the website works and looks good on the three main browsers: Google Chrome, Safari, Mozilla Firefox. Something has been noticed in the Safari browser that is mentioned in the Unsolved Bugs section.
 
 ### Responsiveness
 
@@ -99,6 +97,18 @@ I tested the website's performance, accessibility, best practices and SEO using 
 The scores were perfect, except the SEO score. In order to improve it, lighthouse advises to add a meta desciption tag. After doing this, the website reaches the maximum scores in all categories.
 
 ![Image of the lighthouse result after](assets/images/readme/lighthouse%20after.png)
+
+## Feautues
+
+- I confirm that the navigation bar works. The user jumps to the section after clicking them.
+
+- I confirm that the call to action button in the hero section works. The user jumps to the signup section after clicking it.
+
+- I confirm that the call to action buttons in the pricing section work. The user jumps to the signups section after clicking them.
+
+- I confirm that the form works. First name, last name, as well as the email address is required to submit the form. When clicking the submit button, the user jumps right back on the top of the page, because there is no backend application the website is linked to.
+
+- I confirm that the social media icons work. After clicking them, a new tab opens in the browser.
 
 
 
