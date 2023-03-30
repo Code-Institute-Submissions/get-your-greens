@@ -68,3 +68,7 @@ In comparison to the mockup, the implementation of the signup section is mirrore
 
 ### Footer
 
+![Image of the website's footer](assets/images/readme/footer.png)
+
+The implementation of the footer is as planned, except that the social media links and contact information are displayed vertically instead of horizontally. When the user clicks on the social media icons, a new tab opens.
+
