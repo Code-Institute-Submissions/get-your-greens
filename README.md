@@ -94,11 +94,11 @@ I tested the website's performance, accessibility, best practices and SEO using 
 
 ![Image of the lighthouse result before](assets/images/readme/lighthouse_before.png)
 
-The scores were perfect, except the SEO score. In order to improve it, lighthouse advises to add a meta desciption tag. After doing this, the website reaches the maximum scores in all categories.
+The scores were perfect, except the SEO score. In order to improve it, lighthouse advises to add a meta description tag. After doing this, the website reaches the maximum scores in all categories.
 
 ![Image of the lighthouse result after](assets/images/readme/lighthouse%20after.png)
 
-## Feautues
+## Features
 
 - I confirm that the navigation bar works. The user jumps to the section after clicking them.
 
