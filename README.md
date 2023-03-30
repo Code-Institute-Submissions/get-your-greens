@@ -88,7 +88,7 @@ I confirm that the website works and looks good on the three main browsers: Goog
 
 I can confirm that the website works and looks good on all standard screen sizes using the chrome developer tools. In additon, the websites responsiveness was tested on an IPhone 12 Pro and a MacBook Air.
 
-## Lighthouse
+### Lighthouse
 
 I tested the website's performance, accessibility, best practices and SEO using lighthouse by chrome developer tools.
 
@@ -98,7 +98,7 @@ The scores were perfect, except the SEO score. In order to improve it, lighthous
 
 ![Image of the lighthouse result after](assets/images/readme/lighthouse%20after.png)
 
-## Features
+### Features
 
 - I confirm that the navigation bar works. The user jumps to the section after clicking them.
 
