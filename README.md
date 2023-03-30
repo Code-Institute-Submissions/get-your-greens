@@ -48,9 +48,11 @@ The hero section features a large image to show the potential customers how GetY
 
 The How it works section was implemented as planned. It shows to the user how simple the process is and support the understanding of the process through small images.
 
-
-
 ### Testimonials Section
+
+![Image of the website's testimonials section](assets/images/readme/testimonials-section.png)
+
+The Testimonial section was implemented slightly differently than planned. I decided to leave out the a gallery of images and instead focused on 3 testimonials to avoid overloading the section and to keep it clear.
 
 ### Pricing Section
 
