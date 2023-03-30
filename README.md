@@ -38,6 +38,10 @@ The header contains a company logo to encourage brand awareness. Next to it ther
 
 ### Hero Section
 
+![Image of the website's hero section](assets/images/readme/hero-section.png)
+
+The hero section features a large image to show the potential customers how GetYourGreen's products look like. It also includes a title and a brief description that communicates the value GetYourGreens customers receive. Multiple customer images are displayed to build trust. The highlight is the call-to-action button, which allows the user to quickly jump to the registration process.
+
 ### How It Works Section
 
 ### Testimonials Section
