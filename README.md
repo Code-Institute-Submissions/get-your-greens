@@ -62,5 +62,9 @@ The Pricing section was implemented as planned, except that there are now two in
 
 ### Signup Section
 
+![Image of the website's pricing section](assets/images/readme/signup.png)
+
+In comparison to the mockup, the implementation of the signup section is mirrored. On the left side, there is an image of a man delivering a greens box, while on the right side, the user receives the offer to get the first delivery for free if they sign up now. They need to enter their first name, last name, and email address before registering with the call-to-action button.
+
 ### Footer
 
