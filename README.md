@@ -72,6 +72,18 @@ In comparison to the mockup, the implementation of the signup section is mirrore
 
 The implementation of the footer is as planned, except that the social media links and contact information are displayed vertically instead of horizontally. When the user clicks on the social media icons, a new tab opens.
 
+## Development
+
+### Technologies used
+
+- Gitpod was used as the Integrated Development Environment
+
+- Hypertext Markup Language was used to describe the content of the website.
+
+- Cascading Stylesheets were used to style the content on the website.
+
+- The version control software GIT was used during the development process
+
 ## Testing
 
 ### Code Validation
@@ -136,7 +148,7 @@ I tried to find out where this bug comes from and compared this button to the bu
 
 - The SVG's were downloaded from [Undraw](https://www.undraw.com/).
 
-- The social media icons were downloadet from [Flaticon](https://www.flaticon.com/)
+- The social media icons were downloaded from [Flaticon](https://www.flaticon.com/)
 
 ## Deployment
 
