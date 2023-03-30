@@ -116,6 +116,8 @@ The scores were perfect, except the SEO score. In order to improve it, lighthous
 
 - After changing the grid layout in the media query in the how it works section, the grid elements were displayed in a wrong order. I found the solution for this problem in this [article](https://www.sitepoint.com/order-align-items-grid-layout/)
 
+- When implementing the hover effect I tried to use a border. The problem was that it pushed the content above upwards. I found the solution for this problem in this [forum](https://stackoverflow.com/questions/18887058/css-hover-creating-border-but-pushing-content)
+
 ### Unsolved Bugs
 
 
