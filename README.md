@@ -140,6 +140,8 @@ I tried to find out where this bug comes from and compared this button to the bu
 
 ## Contents
 
+- The font was imported using [Google Fonts](https://fonts.google.com/)
+
 - The Logo was created using [Canva](https://www.canva.com/).
 
 - The images were downloaded from [Pexels](https://www.pexels.com/).
